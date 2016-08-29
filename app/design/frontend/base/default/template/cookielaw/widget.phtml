@@ -20,14 +20,14 @@
      class="<?php echo $_helper->getType(); ?> <?php echo $_helper->getSkin(); ?> <?php echo ($_helper->getType() == 'v-bar') ? $_helper->getBarPosition() : $_helper->getBoxPosition(); ?>"
      style="display: none">
     <div class="v-message">
-        <?php echo ($_helper->getShow() == 'default') ? $this->__('This websites uses cookies. By continuing to browse the site you are agreeing to our use of cookies.') : $_helper->getCustomMessage(); ?>
+        <?php echo ($_helper->getShow() == 'default') ? $this->__('MESSAGE') : $_helper->getCustomMessage(); ?>
     </div>
     <div class="v-actions">
         <a href="javascript:cookieLawAccept();" class="v-button v-accept">
-            <?php echo ($_helper->getShow() == 'default') ? $this->__("Accept") : $_helper->getCustomAccept(); ?>
+            <?php echo ($_helper->getShow() == 'default') ? $this->__("ACCEPT") : $_helper->getCustomAccept(); ?>
         </a>
         <a href="<?php echo $_helper->getCmsPage(); ?>" class="v-button">
-            <?php echo ($_helper->getShow() == 'default') ? $this->__("More information") : $_helper->getCustomMoreInfo(); ?>
+            <?php echo ($_helper->getShow() == 'default') ? $this->__("MORE_INFORMATION") : $_helper->getCustomMoreInfo(); ?>
         </a>
     </div>
 </div>
