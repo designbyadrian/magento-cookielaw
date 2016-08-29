@@ -10,5 +10,6 @@ app/locale/fr_FR/Valdecode_CookieLaw.csv app/locale/fr_FR/Valdecode_CookieLaw.cs
 app/locale/hu_HU/Valdecode_CookieLaw.csv app/locale/hu_HU/Valdecode_CookieLaw.csv
 app/locale/nl_NL/Valdecode_CookieLaw.csv app/locale/nl_NL/Valdecode_CookieLaw.csv
 app/locale/ro_RO/Valdecode_CookieLaw.csv app/locale/ro_RO/Valdecode_CookieLaw.csv
+app/locale/ro_RO/Valdecode_CookieLaw.csv app/locale/sv_SE/Valdecode_CookieLaw.csv
 skin/adminhtml/default/default/valdecode/cookielaw/ skin/adminhtml/default/default/valdecode/cookielaw/
 skin/frontend/base/default/valdecode/cookielaw/ skin/frontend/base/default/valdecode/cookielaw/
