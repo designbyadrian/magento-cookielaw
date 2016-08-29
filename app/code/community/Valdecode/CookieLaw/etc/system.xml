@@ -19,7 +19,7 @@
 <config>
     <sections>
         <cookielaw module="cookielaw">
-            <label>Cookie Law Compliance</label>
+            <label>Cookie Law for Picard</label>
             <class>v-cookielaw-section</class>
             <header_css>v-cookielaw-header</header_css>
             <tab>general</tab>
