@@ -17,7 +17,6 @@
 #v-cookielaw .v-message { padding: 5px 10px; text-align: left; }
 #v-cookielaw .v-actions { }
 #v-cookielaw .v-button { color: #222; display: inline-block; background-color: #ececec; background-image: linear-gradient(#f4f4f4, #ececec); border: 1px solid #d4d4d4; padding: 4px 10px; text-decoration: none; text-shadow: 1px 1px 0 #fff; border-radius: 2px; }
-#v-cookielaw .v-button.v-accept:before { content: "\2714"; }
 #v-cookielaw .v-button:hover,
 #v-cookielaw .v-button:focus { color: #fff; text-shadow: -1px -1px 0 rgba(0,0,0,0.3); border-color: #3072b3; border-bottom-color: #2a65a0; background-color: #2a65a0; background-image: linear-gradient(#599bdc, #3072b3); }
 #v-cookielaw .v-button:active {  border-color: #2a65a0; border-bottom-color: #3884cd; background-color: #3072b3; background-image: linear-gradient(#3072b3, #599bdc); }
@@ -64,10 +63,24 @@
 #v-cookielaw.v-minimalist .v-button { padding: 3px 6px; }
 
 /* Skin - Picard */
-#v-cookielaw.v-picard { color: #2c2c2c; background: #f0f0f0; border-color: #e0e0e0 !important; font-size: 11px; font-family: Verdana; }
+#v-cookielaw.v-picard { color: #6A6D71; background: #EAF0F5; border-color: #d7d7d3 !important; font-size: 11px; font-family: Verdana; text-align: center;}
 #v-cookielaw.v-picard a {color: inherit; font: inherit;}
-#v-cookielaw.v-bar.v-picard { padding: 2px 0; }
-#v-cookielaw.v-box.v-picard { width: 260px; }
-#v-cookielaw.v-box.v-picard .v-actions { margin: 5px; }
-#v-cookielaw.v-box.v-picard .v-message { padding: 5px; }
-#v-cookielaw.v-picard .v-button { padding: 3px 6px; }
+#v-cookielaw.v-picard a:hover { text-decoration: underline; }
+#v-cookielaw.v-picard .v-container { max-width: 800px; display: inline-block; text-align: left;}
+#v-cookielaw.v-picard .v-button {
+	position: relative;
+	border: none;
+	text-shadow: none;
+	font-family: "Neuzeit S Book", Helvetica;
+	font-weight: normal;
+	background: #07ace3;
+	color: #fff;
+	font-size: 14px;
+	padding: 0 20px 0 21px;
+	height: 32px;
+	line-height: 31px;
+	display: inline-block;
+	outline: none;
+	border-radius: 1px;
+	text-decoration: none;
+}
