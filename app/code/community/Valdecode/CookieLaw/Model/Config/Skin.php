@@ -20,6 +20,7 @@ class Valdecode_CookieLaw_Model_Config_Skin
     public function toOptionArray()
     {
         return array(
+            array('value' => 'v-picard', 'label' => 'Picard.se'),
             array('value' => '', 'label' => 'Without skin'),
             array('value' => 'v-yellow-alert', 'label' => 'Yellow alert'),
             array('value' => 'v-dark-clean', 'label' => 'Dark clean'),

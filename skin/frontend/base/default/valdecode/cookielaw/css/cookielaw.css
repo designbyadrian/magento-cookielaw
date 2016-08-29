@@ -62,3 +62,12 @@
 #v-cookielaw.v-box.v-minimalist .v-actions { margin: 5px; }
 #v-cookielaw.v-box.v-minimalist .v-message { padding: 5px; }
 #v-cookielaw.v-minimalist .v-button { padding: 3px 6px; }
+
+/* Skin - Picard */
+#v-cookielaw.v-picard { color: #2c2c2c; background: #f0f0f0; border-color: #e0e0e0 !important; font-size: 11px; font-family: Verdana; }
+#v-cookielaw.v-picard a {color: inherit; font: inherit;}
+#v-cookielaw.v-bar.v-picard { padding: 2px 0; }
+#v-cookielaw.v-box.v-picard { width: 260px; }
+#v-cookielaw.v-box.v-picard .v-actions { margin: 5px; }
+#v-cookielaw.v-box.v-picard .v-message { padding: 5px; }
+#v-cookielaw.v-picard .v-button { padding: 3px 6px; }
