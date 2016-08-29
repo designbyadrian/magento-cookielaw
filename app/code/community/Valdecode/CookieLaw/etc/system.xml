@@ -33,11 +33,9 @@
                     <comment>
                         <![CDATA[
                             <div class="v-cookielaw-notice">
-                            <b><a href="http://www.magentocommerce.com/magento-connect/eu-cookie-law-compliance-3.html" target="_blank">Cookie Law Compliance</a></b>
+                            <b><a href="https://github.com/designbyadrian/magento-picard-cookielaw">Cookia Law for Picard</a></b> is based on <b><a href="http://www.magentocommerce.com/magento-connect/eu-cookie-law-compliance-3.html" target="_blank">Cookie Law Compliance</a></b>
                             is a <b><a href="http://www.valdecode.com/" target="_blank">Valdecode</a></b>
-                            extension.<br/><span class="advice">We would like you to review this extension
-                            at Magento Connect. If you feel that we do not deserve a 5 star review, please contact us right
-                            away before leaving a neutral or negative review, so we can try to correct the problem.</span>
+                            extension.
                             </div>
                         ]]>
                     </comment>
