@@ -88,9 +88,6 @@
     <default>
         <cookielaw>
             <general>
-                <type>v-bar</type>
-                <bar_position>v-top</bar_position>
-                <box_position>v-bottom-right</box_position>
                 <skin>v-picard</skin>
                 <behaviour>365</behaviour>
                 <autohide>0</autohide>
